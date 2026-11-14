@@ -1,0 +1,11 @@
+.env
+.venv/
+chroma_db*/
+__pycache__/
+.ipynb_checkpoints/
+
+# Instrucciones locales para Claude Code (no se publican)
+CLAUDE.md
+
+# Notas de trabajo para el README (no se publican)
+notas_readme.md
