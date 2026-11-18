@@ -1,6 +1,6 @@
 # Corpus del TP Integrador 2
 
-Tres documentos reales y públicos sobre protección de datos personales y uso responsable de IA en Argentina. Se publican en este repositorio para que el índice pueda reconstruirse desde estos archivos. Descargados el 13/11/2026.
+Tres documentos reales y públicos sobre protección de datos personales y uso responsable de IA en Argentina. Se publican en este repositorio para que el índice pueda reconstruirse desde estos archivos.
 
 | Archivo | Documento | Autor u organismo | Origen | Versión | Condiciones de uso | Páginas indexadas |
 |---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Tres documentos reales y públicos sobre protección de datos personales y uso r
 ## Transformaciones
 
 - La Guía y los Lineamientos son los PDF originales de cada organismo, sin cambios.
-- La Ley es la página web de argentina.gob.ar guardada como PDF desde el navegador el 13/11/2026. Conserva en cada página el encabezado y el pie del navegador (fecha, título, URL y número de página). El PDF nativo de la Cámara de Diputados no estaba disponible (error 503).
+- La Ley es la página web de argentina.gob.ar guardada como PDF desde el navegador. Conserva en cada página el encabezado y el pie del navegador (fecha, título, URL y número de página). El PDF nativo de la Cámara de Diputados no estaba disponible (error 503).
 
 ## Antes de usarlos como fuente
 
