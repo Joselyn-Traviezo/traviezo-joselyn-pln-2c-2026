@@ -16,6 +16,8 @@ La Ley 25.326 es obligatoria; la Guía de la AAIP (versión preliminar, 2024) y 
 
 **No puede responder** normativa de otros países, jurisprudencia, reformas posteriores a la versión descargada, plazos o costos de trámites que los documentos no mencionan, ni el contenido de figuras e imágenes (ver sección 7). No reemplaza el asesoramiento legal.
 
+**Origen del proyecto.** La idea surge de la materia Trabajo, Tecnología y Sociedad, que curso en paralelo en la misma tecnicatura. Allí trabajamos sobre protección de datos personales, inteligencia artificial y el estado de las leyes, guías y regulaciones que existen hoy. Al mismo tiempo, las noticias recientes sobre la seguridad de los datos personales muestran una preocupación creciente, y es esperable que las organizaciones tengan que justificar cada vez más cómo sus productos cumplen la normativa. Este sistema toma esa pregunta y la convierte en un prototipo: una herramienta mínima que permite consultar la ley y las guías oficiales con la fuente a la vista. No pretende reemplazar el asesoramiento legal; es un primer paso, pensado como si fuera el producto mínimo de una herramienta real.
+
 ---
 
 ## 2. Corpus
